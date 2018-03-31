@@ -1,12 +1,23 @@
 # Exp 4. Protein Data Bases, Finding and Viewing
 
 ## Introduction
-Here are lots of protein structures information in data base. 
+To understand protein's biological function, lots of scientists try to find out
+the physical structure of proteins. Here are some databases, which collect 
+known protein's structure.So we can get these protein strcture from database 
+conveniently. Here are pdb.org and rcdb.org.
+
+Typically, every protein from database contains a .PDB text file. PDB file 
+contain recongition information and atoms space positions. PDB file can be
+visualized and edit by PyMol, which is a open source python package used
+widely.
+
+We will find and view human hemoglobin structure from databse.
 
 ## Methods
-1. Find the PDB ID of human hemoglobin, whose resolution is higher than 2 A.
-2. Download the PDB coordinate file and check the detailed information in 
-the file. Find out:
+1. Find the PDB ID of human hemoglobin from rcdb.org, whose resolution is 
+higher than 2 A.
+2. Download PDB coordinate file and check the detailed information in 
+this file. Find out:
 - How many protein chains? Which compounds in structures?
 - Which compounds in structures?
 - Which residues are missed in the coordinate?
