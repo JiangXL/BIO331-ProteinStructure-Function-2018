@@ -40,13 +40,13 @@ molecules is around hemoglobin. The first amino acid VAL in chain D is
 missed. 
 3. The file name is 1A3N_beta.pdb
 4. Visual pictures
-![](carton.png)
-![](dots.png)
-![](line.png)
-![](mesh.png)
-![](ribon.png)
-![](spheres.png)
-![](sticks.png)
+![carton view](carton.png)
+![dots view](dots.png)
+![line view](line.png)
+![mesh view](mesh.png)
+![ribon view](ribon.png)
+![spheres view](spheres.png)
+![sticks view](sticks.png)
 ![](surface.png)
 
 ## Conclusion
