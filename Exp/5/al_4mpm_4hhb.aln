@@ -1,0 +1,42 @@
+CLUSTAL
+
+4mpm         MERPEPEL-------------------------------------------------------
+4hhb         VLSPADKTNVKAAWGKVGAHAGEYGAEALERMFLSFPTTKTYFPHFDLSHGSAQVKGHGKKVA
+                                                                            
+
+4mpm         ---------------------------------------------------------------
+4hhb         DALTNAVAHVDDMPNALSALSDLHAHKLRVDPVNFKLLSHCLLVTLAAHLPAEFTPAVHASLD
+                                                                            
+
+4mpm         ---------------------------------------------------------------
+4hhb         KFLASVSTVLTSKYRVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDL
+                                                                            
+
+4mpm         ---------------------------------------------------------------
+4hhb         STPDAVMGNPKVKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLV
+                                                                            
+
+4mpm         --------------------------------------------IRQSWRAVSRSPLEHGTVL
+4hhb         CVLAHHFGKEFTPPVQAAYQKVVAGVANALAHKYHVLSPADKTNVKAAWGKVGAHAGEYGAEA
+                                                         ....*..*.....*.*...
+
+4mpm         FARLFALEPDLLPLFQYNCRQFSSPEDCLS--SPEFLDHIRKVMLVIDAAVTNVEDLSSLEEY
+4hhb         LERMFLSFPTTKTYF---------PHFDLSHGSAQVKGHGKKVADALTNAVAHVDDMPNALSA
+             ..*.*...*.....*         *...**  *.....*..**......**..*.*.......
+
+4mpm         LASLGRKHRAVGVKLSSFSTVGESLLYMLEKCLGPAFTPATRAAWSQLYGAVVQAMSRGWDGE
+4hhb         LSDL-HAHK-LRVDPVNFKLLSHCLLVTLAAHLPAEFTPAVHASLDKFLASVSTVLTSKYRVH
+             *..* ..*. ..*....*......**..*...*...****..*........*.........  
+
+4mpm         MERPEPELIRQSWRAVSRSPLEHGTVLFARLFALEPDLLPLFQYNCRQFSSPEDCLSSPEFLD
+4hhb         LTPEEKSAVTALWGKVNVD--EVGGEALGRLLVVYPWTQRFFE-SFGDLSTPDAVMGNPKVKA
+              ...*.......*..*...  *.*.....**....*.....*. .....*.*......*....
+
+4mpm         HIRKVMLVIDAAVTNVEDLSSLEEYLASLGRKH-RAVGVKLSSFSTVGESLLYMLEKCLGPAF
+4hhb         HGKKVLGAFSDGLAHLDNLKGT---FATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFGKEF
+             *..**.............*...   .*.*...* ....*....*...*..*...*....*..*
+
+4mpm         TPATRAAWSQLYGAVVQAMSRGWDGE                                     
+4hhb         TPPVQAAYQKVVAGVANALAHKYH--                                     
+             **...**.......*..*......                                       
+
