@@ -1,0 +1,24 @@
+set arrow from 1,-0.02 to 6,-0.02 lt 2 lw 30
+set arrow from 6,-0.02 to 1,-0.02 lt 2 lw 30
+set arrow from 7,-0.02 to 28,-0.02 lt 1 lw 30
+set arrow from 28,-0.02 to 7,-0.02 lt 1 lw 30
+set arrow from 29,-0.02 to 63,-0.02 lt 3 lw 30
+set arrow from 63,-0.02 to 29,-0.02 lt 3 lw 30
+set arrow from 64,-0.02 to 93,-0.02 lt 1 lw 30
+set arrow from 93,-0.02 to 64,-0.02 lt 1 lw 30
+set arrow from 94,-0.02 to 97,-0.02 lt 2 lw 30
+set arrow from 97,-0.02 to 94,-0.02 lt 2 lw 30
+set title "Phobius posterior probabilities for 1BL8:A|PDBID|CHAIN|SEQUENCE "
+set key below
+set yrange [-0.04:1.0]
+set ylabel "Posterior label probability"
+set xrange [1:97]
+set terminal png small transparent xffffff \
+                        x000000 x000000 xA0A0A0 x00CF00 \
+                        x0000FF x66CCCC x0000FF xFF0000
+set output "../tmp/aabt.png"
+plot "../tmp/aabt.plp" using 1:5 title "transmembrane" with impulses lt 1 lw 2, \
+"" using 1:3 title "cytoplasmic" with line lt 2 lw 3, \
+"" using 1:4 title "non cytoplasmic" with line lt 3 lw 3, \
+"" using 1:6 title "signal peptide" with line lt 6 lw 3
+exit
