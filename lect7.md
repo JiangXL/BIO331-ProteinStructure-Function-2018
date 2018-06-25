@@ -1,4 +1,4 @@
-#Lect 7 Structure Protein
+# Lect 7 Structure Protein
 
 Shape, force, and dynamics
 

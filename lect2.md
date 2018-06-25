@@ -2,7 +2,7 @@
 EF-hand
 
 
-# Domain: compact regionof protein structure
+# Domain: compact region of protein structure
 Hydrophobic core enhance the domain stability
 
 alpha domain
